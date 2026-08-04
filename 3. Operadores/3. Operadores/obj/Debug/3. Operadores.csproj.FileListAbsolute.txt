@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\obj\Debug\3. Operadores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\obj\Debug\3. Operadores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\bin\Debug\_3.Operadores.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\bin\Debug\_3.Operadores.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\bin\Debug\_3.Operadores.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\obj\Debug\_3.Operadores.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\3. Operadores\3. Operadores\obj\Debug\_3.Operadores.pdb
