@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\bin\Debug\_2.Constante__Tiposdedatosoperadores.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\bin\Debug\_2.Constante__Tiposdedatosoperadores.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\bin\Debug\_2.Constante__Tiposdedatosoperadores.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\obj\Debug\2. Constante, Tiposdedatosoperadores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\obj\Debug\2. Constante, Tiposdedatosoperadores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\obj\Debug\_2.Constante__Tiposdedatosoperadores.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\2. Constante, Tiposdedatosoperadores\2. Constante, Tiposdedatosoperadores\obj\Debug\_2.Constante__Tiposdedatosoperadores.pdb
