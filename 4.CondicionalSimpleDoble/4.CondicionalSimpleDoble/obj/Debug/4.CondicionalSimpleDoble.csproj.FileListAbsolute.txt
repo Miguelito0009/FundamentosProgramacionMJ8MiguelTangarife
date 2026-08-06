@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\bin\Debug\4.CondicionalSimpleDoble.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\bin\Debug\4.CondicionalSimpleDoble.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\bin\Debug\4.CondicionalSimpleDoble.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.pdb
