@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\bin\Debug\_6.Condicionales_Multiplos.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\bin\Debug\_6.Condicionales_Multiplos.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\bin\Debug\_6.Condicionales_Multiplos.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\obj\Debug\6. Condicionales Multiplos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\obj\Debug\6. Condicionales Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\obj\Debug\_6.Condicionales_Multiplos.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\6. Condicionales Multiplos\6. Condicionales Multiplos\obj\Debug\_6.Condicionales_Multiplos.pdb
