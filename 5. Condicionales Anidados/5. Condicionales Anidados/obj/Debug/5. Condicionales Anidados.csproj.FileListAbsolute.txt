@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\bin\Debug\_5.Condicionales_Anidados.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\bin\Debug\_5.Condicionales_Anidados.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\bin\Debug\_5.Condicionales_Anidados.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\obj\Debug\5. Condicionales Anidados.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\obj\Debug\5. Condicionales Anidados.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\obj\Debug\_5.Condicionales_Anidados.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\5. Condicionales Anidados\5. Condicionales Anidados\obj\Debug\_5.Condicionales_Anidados.pdb
