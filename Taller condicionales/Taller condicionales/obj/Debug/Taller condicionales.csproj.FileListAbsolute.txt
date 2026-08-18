@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\obj\Debug\Taller condicionales.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\obj\Debug\Taller condicionales.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\bin\Debug\Taller condicionales.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\bin\Debug\Taller condicionales.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\bin\Debug\Taller condicionales.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\obj\Debug\Taller condicionales.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller condicionales\Taller condicionales\obj\Debug\Taller condicionales.pdb
