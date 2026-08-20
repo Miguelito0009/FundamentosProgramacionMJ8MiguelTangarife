@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\bin\Debug\Parcial 1.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\bin\Debug\Parcial 1.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\bin\Debug\Parcial 1.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\obj\Debug\Parcial 1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\obj\Debug\Parcial 1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\obj\Debug\Parcial 1.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcial 1\Parcial 1\obj\Debug\Parcial 1.pdb
