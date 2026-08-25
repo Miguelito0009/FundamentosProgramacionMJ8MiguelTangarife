@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\obj\Debug\7. Ciclowhile.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\obj\Debug\7. Ciclowhile.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\bin\Debug\_7.Ciclowhile.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\bin\Debug\_7.Ciclowhile.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\bin\Debug\_7.Ciclowhile.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\obj\Debug\_7.Ciclowhile.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\7. Ciclowhile\7. Ciclowhile\obj\Debug\_7.Ciclowhile.pdb
