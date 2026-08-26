@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\bin\Debug\_8.CiclosWhile__trabajo_en_casa_.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\bin\Debug\_8.CiclosWhile__trabajo_en_casa_.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\bin\Debug\_8.CiclosWhile__trabajo_en_casa_.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\obj\Debug\8. CiclosWhile (trabajo en casa).csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\obj\Debug\8. CiclosWhile (trabajo en casa).csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\obj\Debug\_8.CiclosWhile__trabajo_en_casa_.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\8. CiclosWhile (trabajo en casa)\8. CiclosWhile (trabajo en casa)\obj\Debug\_8.CiclosWhile__trabajo_en_casa_.pdb
