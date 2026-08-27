@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\bin\Debug\_10.Ciclo_While_3.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\bin\Debug\_10.Ciclo_While_3.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\bin\Debug\_10.Ciclo_While_3.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\obj\Debug\10. Ciclo While 3.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\obj\Debug\10. Ciclo While 3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\obj\Debug\_10.Ciclo_While_3.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\10. Ciclo While 3\10. Ciclo While 3\obj\Debug\_10.Ciclo_While_3.pdb
