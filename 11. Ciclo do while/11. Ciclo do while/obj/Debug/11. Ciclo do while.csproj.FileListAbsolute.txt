@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\bin\Debug\_11.Ciclo_do_while.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\bin\Debug\_11.Ciclo_do_while.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\bin\Debug\_11.Ciclo_do_while.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\obj\Debug\11. Ciclo do while.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\obj\Debug\11. Ciclo do while.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\obj\Debug\_11.Ciclo_do_while.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\11. Ciclo do while\11. Ciclo do while\obj\Debug\_11.Ciclo_do_while.pdb
