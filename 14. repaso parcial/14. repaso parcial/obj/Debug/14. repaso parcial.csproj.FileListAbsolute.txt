@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\bin\Debug\_14.repaso_parcial.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\bin\Debug\_14.repaso_parcial.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\bin\Debug\_14.repaso_parcial.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\obj\Debug\14. repaso parcial.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\obj\Debug\14. repaso parcial.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\obj\Debug\_14.repaso_parcial.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\14. repaso parcial\14. repaso parcial\obj\Debug\_14.repaso_parcial.pdb
