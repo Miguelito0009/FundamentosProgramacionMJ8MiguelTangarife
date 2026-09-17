@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\bin\Debug\Taller Vectores.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\bin\Debug\Taller Vectores.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\bin\Debug\Taller Vectores.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\obj\Debug\Taller Vectores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\obj\Debug\Taller Vectores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\obj\Debug\Taller Vectores.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Taller Vectores\Taller Vectores\obj\Debug\Taller Vectores.pdb
