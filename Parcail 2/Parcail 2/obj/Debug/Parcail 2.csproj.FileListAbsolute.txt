@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\bin\Debug\Parcail 2.exe.config
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\bin\Debug\Parcail 2.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\bin\Debug\Parcail 2.pdb
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\obj\Debug\Parcail 2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\obj\Debug\Parcail 2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\obj\Debug\Parcail 2.exe
+C:\Users\USUARIO\Desktop\FAD Miguel Tangarife\FundamentosProgramacionMJ8MiguelTangarife\Parcail 2\Parcail 2\obj\Debug\Parcail 2.pdb
