@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\bin\Debug\12.Ciclowhile.exe.config
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\bin\Debug\12.Ciclowhile.exe
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\bin\Debug\12.Ciclowhile.pdb
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\obj\Debug\12.Ciclowhile.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\obj\Debug\12.Ciclowhile.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\obj\Debug\12.Ciclowhile.exe
+C:\Users\USUARIO\Downloads\-FundamentosProgramacionMJ10SamuelGonzalez-main (2)\-FundamentosProgramacionMJ10SamuelGonzalez-main\12.Ciclowhile\obj\Debug\12.Ciclowhile.pdb
